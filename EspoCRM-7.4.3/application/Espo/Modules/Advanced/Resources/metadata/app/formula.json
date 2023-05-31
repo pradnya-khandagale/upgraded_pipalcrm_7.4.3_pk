@@ -1,0 +1,17 @@
+{
+    "functionClassNameMap": {
+        "processEntity\\attribute": "Espo\\Modules\\Advanced\\Core\\Workflow\\Formula\\Functions\\BpmGroup\\ProcessEntityGroup\\AttributeType",
+        "bpm\\broadcastSignal": "Espo\\Modules\\Advanced\\Core\\Workflow\\Formula\\Functions\\BpmGroup\\BroadcastSignalType",
+        "bpm\\processEntity\\attribute": "Espo\\Modules\\Advanced\\Core\\Workflow\\Formula\\Functions\\BpmGroup\\ProcessEntityGroup\\AttributeType",
+        "bpm\\createdEntity\\attribute": "Espo\\Modules\\Advanced\\Core\\Workflow\\Formula\\Functions\\BpmGroup\\CreatedEntityGroup\\AttributeType",
+        "bpm\\targetEntity\\attribute": "Espo\\Modules\\Advanced\\Core\\Workflow\\Formula\\Functions\\TargetEntityGroup\\AttributeType",
+        "bpm\\startProcess": "Espo\\Modules\\Advanced\\Core\\Workflow\\Formula\\Functions\\BpmGroup\\StartProcessType",
+        "targetEntity\\attribute": "Espo\\Modules\\Advanced\\Core\\Workflow\\Formula\\Functions\\TargetEntityGroup\\AttributeType",
+        "targetEntity\\attributeFetched": "Espo\\Modules\\Advanced\\Core\\Workflow\\Formula\\Functions\\TargetEntityGroup\\AttributeFetchedType",
+        "targetEntity\\isAttributeChanged": "Espo\\Modules\\Advanced\\Core\\Workflow\\Formula\\Functions\\TargetEntityGroup\\IsAttributeChangedType",
+        "targetEntity\\isAttributeNotChanged": "Espo\\Modules\\Advanced\\Core\\Workflow\\Formula\\Functions\\TargetEntityGroup\\IsAttributeNotChangedType",
+        "targetEntity\\isNew": "Espo\\Modules\\Advanced\\Core\\Workflow\\Formula\\Functions\\TargetEntityGroup\\IsNewType",
+        "targetEntity\\isRelated": "Espo\\Modules\\Advanced\\Core\\Workflow\\Formula\\Functions\\TargetEntityGroup\\IsRelatedType",
+        "targetEntity\\hasLinkMultipleId": "Espo\\Modules\\Advanced\\Core\\Workflow\\Formula\\Functions\\TargetEntityGroup\\HasLinkMultipleIdType"
+    }
+}
